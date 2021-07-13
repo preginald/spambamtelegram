@@ -1,5 +1,5 @@
-# SPAM Bam  Thank-You Maam
-Spam Bam Thank You Maam is a Telegram bot that bans spammers who DM defi users in need of support.
+# SPAM Bam  Telegram
+Spam Bam Telegram is a Telegram bot that bans spammers who DM defi users in need of support.
 
 The bot acts like a honeypot. 
 
